@@ -1,1 +1,1 @@
-# Sorting-Algorithms-Performance-Analysis
+Ten projekt to szczegółowe badanie wydajności klasycznych algorytmów sortowania, zrealizowane w języku Python. Analiza wykracza poza standardowe implementacje, badając wpływ wartowników oraz hybrydowych połączeń z Insertion Sort na szybkość działania w różnych zakresach danych.
